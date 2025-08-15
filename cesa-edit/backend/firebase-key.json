@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cesa-website-a696a",
+  "private_key_id": "3b013d123a26445482f6b6d56000032868eea1aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9axc3RHutrOsX\n8825FjGOoas1mxbK/SK0QJO1XYnDjq5IYWvjmZl7rJicQjReOE77zOQ6Lt8Iggoz\n456Phxx+tN6TmkFQwtNYKxJ5lT8l7GVprFB9uB7Z7WVpRUz+CKauS7OyCynBxO2g\nnY4re3ucBtI03fOy36j74Tph77s1Amn7BWL2b4K0ztZqUuQHxpqdehArXufALizn\nJASEeYkGBAfHlyyy4crHyFZrJd/aRHsdfCBLNf3NjOhCudzuepkZzkbGiJjtk8PL\nOcyZrEi7bC2+p9ux2RT3YNOjfx3M47c3Dhibqvz+5YNOI+CX5a2XOjQbV6iL8mae\nen/Hy2NhAgMBAAECggEAAOtKG4yLhRY3tdALCYDgEK8cI5BzFd0QlAtULCceCgLh\nOZyvZ1VRd1YpD2kK1AI17+bYnKepkWMAJaxPEqc3Li42fkTbWEb5u43J8ykUO1zg\nSRj68wE3tRr/yPj7HKhyFpprbsu7EiOge40IKZHZ0bH+xx7kldOcAEzheaQuJl2w\nfj62eHwRLyaJzjb0RTUSNir6AFiFDCFkDRlYh89IP8FXDH6iHzJ37wGgIoH1PB7r\n9iP2tuqmku0d/LK9YSgmAVkFaOmYfMn1mkGjeSCrlsXE+X6o/6oFvg1aFY0/pBIm\nBr48am2YyNG83cGe9pxmIya6zSOcRYZeWpLYP/po+QKBgQDnFzMBGFQRNBNyv8Q+\nOwr2sU6uH9nW83yPqdWsm+QpionA6neAjlTrKtiBFxXqXJguVHgW7CFMpTvMSahB\nF5/JuzjD/5lmqEDVYP3JJIhvSr8idO7tX9/+B6AdC5rE+hE1UnfIl+mAEW90fqBx\nZpWy3OTQHWUTHnJw8Ru4OJbCpwKBgQDR1fhynUWSVXvTw7TmEn7s/Ox0TRzmaiCP\n9vLeOTzFsPDGMRpYjlbUw+7qJufqKDay+WC7YTOxf4JJNA5TeD2yyz31JR5fCwCA\nwcnqsJjOnkY0IcPN253LNBrEWz8pEcjEzDmbJyrGp87dTlDxa8m96FPRlPZHOxKS\ntHSoTkWStwKBgQCj/gaoBEfEXZxflk8BiozhPDqFvvysWeZPXUrRT1+/Sx0u1jUv\n+dGxgZpbIbLfug4U8sS2H6QR7EBfXPYWG1m9oytJjB2kiEpaIpZ3I4He2MCDB1B3\nC869S1QIyK9wkbWcjYWLyKJfy/+4QBRD5XTelXubZQDRbI3yMGhnd2EliQKBgEzI\nPBJMhEGosBfsHAy4JeO4JRnlgba6jNHBLlusnBVGysPrAdX3t8RBMfJSbDhdoK5a\n3E+UoOLJYrZAqyFV9VWwUyqZ+4QRtYxn3OfY2QF6HvxCgrCYNSQ/G7BQJ0ty64E/\nrbCdY2Sv0N1gI/RDWd343nrpRDkKX6B5EdroUUL/AoGBAMI94jks5oWBPK+fhHFe\nkDeYIP1UYMHvvKWwVFS5j2S34cPHAQPjrmtn6fn+LhKANmIQxdE6ZAyyPE+PdQya\niHbWLKiZWqHc04MKEsF2wJXexhkX1agwOhPq3Rvl6kwDj9jVcPo7heTeIplMEdv9\nDJW+r11hO5t9dPsLGqwU0Qs4\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@cesa-website-a696a.iam.gserviceaccount.com",
+  "client_id": "112460561017780183970",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40cesa-website-a696a.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
